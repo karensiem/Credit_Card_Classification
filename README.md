@@ -44,7 +44,7 @@ The project typically involves the following steps:
 
 4. Model evaluation using appropriate classification metrics
 
-        - Special attention is paid to evaluation metrics that are suitable for imbalanced classification problems, such as F1-score, precision, recall, and ROC-AUC.
+    - Special attention is paid to evaluation metrics that are suitable for imbalanced classification problems, such as F1-score, precision, recall, and ROC-AUC.
 
 ## Evaluation Metrics
 
